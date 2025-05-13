@@ -1,4 +1,4 @@
-# Resume_analysis_HeadHunter
+# Проект: Анализ резюме из HeadHunter
 
 ## Оглавление  
 [1. Описание проекта](#Описание-проекта)  
@@ -21,7 +21,8 @@
 Бизнес-задача с применением роли аналитика в компании HeadHunter.
 
 ### Краткая информация о данных
-Файлы с данными можно скачать [тут](https://drive.google.com/drive/folders/1q4oowq729G1sWUWrnnU2pLTCqsku9nHE) и распаковать в папку /data.
+  - Работа выполнена Resume_analysis_HeadHunter.ipynb
+  - Файлы с данными можно скачать [тут](https://drive.google.com/drive/folders/1q4oowq729G1sWUWrnnU2pLTCqsku9nHE) и распаковать в папку /data.
   
 :arrow_up:[к оглавлению](#Оглавление)
 
